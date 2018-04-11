@@ -4,6 +4,9 @@
 - Dependencies: **JQuery**
 - Replace **img** by **canvas**
 
+### DEMO:
+https://stasglebov.github.io/Clip-path-polyfill/
+
 # How to use:
 - Generate figure you need using http://bennettfeely.com/clippy/ ( for example )
 - Include/import polyclip.js file
