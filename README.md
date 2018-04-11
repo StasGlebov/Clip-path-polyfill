@@ -1,4 +1,4 @@
-###Clip-path responsive cross-browser polyfill
+#Clip-path responsive cross-browser polyfill
 
 - Support: **IE 9+**, Edge(12+),  Chrome(4+), FF(3.6+), Safari(4+), Opera(10.1+),
 - Dependencies: **JQuery**
@@ -14,4 +14,4 @@
 **! IMPORTANT !**
 You need separate every figure coordinate (x, y) by coma
 
-###Enjoy!
+#Enjoy!
